@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The Shady Networking Blog</title>
-    <link>http://example.org/</link>
+    <link>http://blog.shady.network/</link>
     <description>Recent content on The Shady Networking Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Aug 2021 21:43:39 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Aug 2021 21:43:39 +0200</lastBuildDate><atom:link href="http://blog.shady.network/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post</title>
-      <link>http://example.org/posts/post/</link>
+      <link>http://blog.shady.network/posts/post/</link>
       <pubDate>Sat, 28 Aug 2021 21:43:39 +0200</pubDate>
       
-      <guid>http://example.org/posts/post/</guid>
+      <guid>http://blog.shady.network/posts/post/</guid>
       <description>Where does this file end up? 🤔</description>
     </item>
     
     <item>
       <title>My First attempt at setting up a blog...</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>http://blog.shady.network/posts/my-first-post/</link>
       <pubDate>Sat, 28 Aug 2021 17:09:36 +0200</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>http://blog.shady.network/posts/my-first-post/</guid>
       <description>First observations: Using the Hugo platform is not the easiest. It does require some technical knowledge but it&amp;rsquo;s obvious that the heavy lifting is done by Hugo itself. The Themes provided are also an interesting subject, since they come with some configuration options. I&amp;rsquo;m excited to explore this further and what cool things I can create using this framework.</description>
     </item>
     
